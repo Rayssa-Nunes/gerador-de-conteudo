@@ -38,4 +38,16 @@ Este projeto foi desenvolvido com:
 
 - **Streamlit**: biblioteca usada para criar a interface visual
 
+## ▶️ Como executar o app
 
+1. Clone o repositório
+   ```bash
+   git clone https://github.com/Rayssa-Nunes/gerador-de-conteudo.git
+
+2. Instale as dependências
+   ```bash
+   pip install -r requirements.txt
+
+3. Execute o aplicativo
+   ```bash
+   streamlit run app.py
